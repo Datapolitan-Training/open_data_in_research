@@ -67,7 +67,33 @@ exclude:true
 
 ---
 
+# Why You Should Pay Attention
+--
+
++ I'll show you where to get government open data
+--
+
++ I'll talk about what you need to know about that data
+--
+
++ I'll connect it back to how you might use it in research
+
+---
+
 # Introduction
+![img-right-35](images/headshot.jpg)
+--
+
++ Trained in sociology and computer science
+--
+
++ 6 years an analyst in the public sector
+--
+
++ 7 years a consultant and trainer with open data
+--
+
++ Involved with the open data movement locally, nationally, and globally
 
 ---
 
@@ -116,7 +142,8 @@ name:open-data
 ---
 
 # Why is this Important?
-[![img-center-75](images/rat_research.png)](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2014.00764.x)
+--
+[![img-center-80](images/rat_research.png)](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2014.00764.x)
 
 .caption[[Article link](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2014.00764.x)]
 
@@ -125,7 +152,7 @@ name:open-data
 
 [![img-center-100](images/nyc_opendata.png)](https://opendata.cityofnewyork.us/)
 
-.caption[[Link to NYC Open Data Portal](https://opendata.cityofnewyork.us/)]
+.caption[<a href="https://opendata.cityofnewyork.us/" target="_blank">Link to NYC Open Data Portal</a>]
 
 ---
 
@@ -134,6 +161,193 @@ name:open-data
 
 
 ---
+
+# Benefits of Open Data
+--
+
++ Transparency
+--
+
+![img-center-60](images/iquantny_fireHydrant.png)
+
+---
+
+# Benefits of Open Data
++ Transparency
++ Releasing social and commercial value
+--
+
+[![img-center-80](images/accuweather.jpg)](https://www.accuweather.com/)
+.caption[[AccuWeather](https://www.accuweather.com/)]
+
+---
+
+# Benefits of Open Data
++ Transparency
++ Releasing social and commercial value
+
+[![img-center-43](images/phones.png)](https://transitapp.com/)
+.caption[[TransitApp.com](https://transitapp.com/)]
+
+---
+
+# Benefits of Open Data
++ Transparency
++ Releasing social and commercial value
+
+[![img-center-80](images/yelp.jpg)](https://www.npr.org/sections/thesalt/2015/03/27/395622262/did-that-restaurant-pass-its-health-inspection-now-yelp-will-tell-you)
+.caption[Source: [NPR](https://www.npr.org/sections/thesalt/2015/03/27/395622262/did-that-restaurant-pass-its-health-inspection-now-yelp-will-tell-you)]
+
+---
+
+# Benefits of Open Data
++ Transparency
++ Releasing social and commercial value
++ Participation and engagement
+--
+
+
+[![img-center-100](images/voting_information_project.png)](https://www.votinginfoproject.org/)
+.caption[[Voting Information Project](https://www.votinginfoproject.org/)]
+
+
+---
+
+# Benefits of Open Data
++ Transparency
++ Releasing social and commercial value
++ Participation and engagement
++ Studies of social, economic, and political trends
+
+---
+
+class:center,middle
+
+# Open Data Concerns
+
+---
+
+# Privacy
+--
+
++ Personally identifiable information (PII)
+
+[![img-center-75](images/gawker.png)](http://gawker.com/the-public-nyc-taxicab-database-that-accidentally-track-1646724546)
+.caption[Source: [Gawker](http://gawker.com/the-public-nyc-taxicab-database-that-accidentally-track-1646724546)]
+
+---
+
+# Privacy
++ Personally identifiable information (PII)
+
+[![img-center-90](images/cab_muslims.png)](https://web.archive.org/web/20150318175539/http://theiii.org/index.php/997/using-nyc-taxi-data-to-identify-muslim-taxi-drivers/)
+.caption[Source: [The Interdisciplinary Internet Institute](https://web.archive.org/web/20150318175539/http://theiii.org/index.php/997/using-nyc-taxi-data-to-identify-muslim-taxi-drivers/)]
+
+---
+
+# Privacy
++ Personally identifiable information (PII)
++ [Mosaic Effect](https://fcw.com/articles/2014/05/13/fose-mosaic.aspx)
+--
+
+
+![img-center-100](images/govex_privacy_matrix.png)
+.caption[The Center for Government Excellence's [Privacy Matrix](https://govex.jhu.edu/wiki/privacy_matrix/)]
+
+---
+
+# Reliability
+--
+
++ Accuracy
+--
+
+[![img-center-45](images/aus_fire_app.png)](https://www.timberbiz.com.au/fire-app-sync-reality/)
+
+.caption[Source: [TimberBiz](https://www.timberbiz.com.au/fire-app-sync-reality/)]
+
+---
+
+# Reliability
++ Accuracy
++ Timeliness
+--
+
+[![img-center-90](images/noaa_cdc.png)](https://www.ncdc.noaa.gov/cdo-web/)
+
+.caption[[NOAA National Climatic Data Center](https://www.ncdc.noaa.gov/cdo-web/)]
+
+---
+
+# Security
+--
+
++ Identify sensitive infrastructure
+--
+
+
+[![img-center-90](images/open_sewer_atlas.png)](http://openseweratlas.tumblr.com/map)
+.caption[[Open Sewer Atlas](http://openseweratlas.tumblr.com/map)]
+
+---
+
+# Is This Data [Research Quality](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)?
+--
+
++ Is summarized the right amount? 
+--
+.blue[ Not usually]
+--
+
++ Is formatted to work with the tools you are going to use? 
+--
+.blue[ Mostly]
+--
+
++ Is easy to manipulate and use? 
+--
+.blue[ Eh...]
+--
+
++ Is valid and accurately reflects the underlying data collection? 
+--
+.blue[ I wish...]
+--
+
++ Has potential biases clearly documented? 
+--
+.blue[ Rarely]
+--
+
++ Combines all the relevant data types you need to answer questions? 
+--
+.blue[ Usually needs to be joined with other data)]
+
+---
+
+class:center,middle
+# Questions?
+
+---
+
+# Final Thoughts
+--
+
++ Open data has a lot of uses, but isn't research quality off the portal
+--
+
++ Don't take it at face value
+--
+
++ Be clear about your assumptions/expectations and be ready to be surprised 
+--
+<br>_or annoyed and frustrated..._
+--
+
++ Make sure you take the time to research context and reach out to data experts when necessary
+
+---
+
 
 # Resources
 --
@@ -145,11 +359,10 @@ name:open-data
 --
 
 + [Open Data 500](https://www.opendata500.com/)
+--
 
++ [Research Quality Datasets from SimplyStatistics.org](https://simplystatistics.org/2019/05/29/research-quality-data-and-research-quality-databases/)
 
----
-
-# Final Thought
 
 ---
 
