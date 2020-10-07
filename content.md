@@ -24,9 +24,9 @@ class: center,middle
 
 ## Facilitator: Richard Dunks
 
-### Follow along at: 
+### Follow along at: http://bit.ly/open-data-in-research
 
-#### See the code at: 
+#### See the code at: http://bit.ly/open-data-in-research-code
 
 <p class="license-text"><strong><strong>Using Open Data in Research: Opportunities and Challenges</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
