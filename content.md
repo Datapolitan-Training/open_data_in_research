@@ -73,10 +73,10 @@ exclude:true
 + I'll show you where to get government open data
 --
 
-+ I'll talk about what you need to know about that data
++ I'll talk about how to use that data
 --
 
-+ I'll connect it back to how you might use it in research
++ I'll connect it back to using it in research
 
 ---
 
@@ -104,6 +104,22 @@ name:open-data
 > Open data is data that can be freely used, shared and built-on by anyone, anywhere, for any purpose
 
 ## - [Open Knowledge International](http://blog.okfn.org/2013/10/03/defining-open-data/)
+
+---
+
+# Government Open Data
+--
+
++ Produced by local, county, state, and federal entities agencies
+--
+
++ Often describes the actions of government
+--
+
++ Intended for administration, not research
+--
+
++ Produced at tax-payer expense
 
 ---
 
@@ -321,7 +337,7 @@ class:center,middle
 
 + Combines all the relevant data types you need to answer questions? 
 --
-.blue[ Usually needs to be joined with other data)]
+.blue[ Usually needs to be joined with other data]
 
 ---
 
